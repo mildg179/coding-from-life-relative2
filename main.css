@@ -1,0 +1,108 @@
+body {
+  background-color: black;
+}
+
+.table {
+        width: 1000px;
+    height: 400px;
+    background: #27a6bc;
+    position: relative;
+    bottom: 2094px;
+    transform: skewX(-42deg);
+}
+
+.pumpkin {
+    margin: 30px auto;
+    position: relative;
+    bottom: -133px;
+    left: -304px;
+    width: 200px;
+    height: 200px;
+    background: #008eff;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.vase {
+      margin: 30px auto;
+    position: relative;
+    bottom: 1300px;
+    left: -201px;
+    width: 200px;
+    height: 500px;
+    background: #32cfe3a3;
+    border-radius: 25%;
+    z-index: 1;
+}
+
+.squash {
+       margin: 30px auto;
+    position: relative;
+    bottom: 1420px;
+    left: -300px;
+    width: 300px;
+    height: 200px;
+    background: #a2fff3;
+    border-radius: 50%;
+    z-index: 1;
+
+}
+
+.candle {
+      margin: 30px auto;
+    position: relative;
+    bottom: 431px;
+    left: 100px;
+    width: 30px;
+    height: 400px;
+    background: #62c7f4;
+    border-radius: 0%;
+    z-index: 1;
+
+}
+
+
+.candle2 {
+    margin: 30px auto;
+    position: relative;
+    bottom: 740px;
+    left: -445px;
+    width: 30px;
+    height: 400px;
+    background: #62c7f4;
+    border-radius: 0%;
+    z-index: 1;
+    }
+
+.squash2 {
+       margin: 30px auto;
+    position: relative;
+    bottom: -10px;
+    left: -104px;
+    width: 298px;
+    height: 140px;
+    background: #8afffb;
+    border-radius: 50%;
+    z-index: 1;
+
+}
+
+.pot {
+   margin: 30px auto;
+    position: relative;
+    bottom: 1708px;
+    left: 113px;
+    width: 300px;
+    height: 273px;
+    background: #0f516e;
+    border-radius: 40%;
+    z-index: 1;
+}
+
+.frame {
+    width: 1000px;
+    height: 600px;
+    background: #b2ddff;
+    margin: 30px auto;
+    position: relative;
+}
